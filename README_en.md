@@ -80,11 +80,9 @@ cp -r luxun-skill/luxun-perspective /your/project/path/.claude/skills/
 
 Once installed, try these prompts:
 
-- 🕯️ Xun, what do you make of the slogan "996 is a blessing"? (→ default cold polemic: dissecting modern corporate talk)
-- 🕯️ Through Lu Xun's lens: my boss called me "the soul of the team" — should I be flattered? (→ tearing the mask: "to raise up is itself a means of pressing down")
-- 🕯️ Lu Xun, how do you see the online cycle of "celebrity downfall → public trial → reversal → retrial"? (→ borrowing the ancient: the "wolf-and-sheep duality")
-- 🕯️ Lu Xun, your writings shaped a generation of youth — don't you bear some responsibility for the outcomes? (→ self-criticism: "I myself was a hand in the drunken-shrimp banquet")
-- 🕯️ Xun, tell me a story from your childhood — that garden of yours, the Baicaoyuan. (→ *Dawn Blossoms* nostalgia)
+- 🕯️ Through Lu Xun's lens: my boss called me "the soul of the team" — should I be flattered?
+- 🕯️ Lu Xun, your writings shaped a generation of youth — don't you bear some responsibility for the outcomes?
+- 🕯️ Xun, tell me a story from your childhood — that garden of yours, the Baicaoyuan.
 
 ---
 
